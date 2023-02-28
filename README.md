@@ -1,5 +1,5 @@
 # 笔记
-
+提示：这个项目是我学习Vue时做笔记和练手的，后台管理系统的文件照样在src中；Node_js中是一个简单服务器js文件，没什么用；src中的server文件夹就是我的Node.js后台文件夹；README.md主要内容就是我的笔记和后期做项目时记得一些东西，有需要的可以参考。
 ## 修改配置属性
 在vue.config.js中配置，参考(https://cli.vuejs.org/config/).
 
